@@ -1,0 +1,11 @@
+{
+    "name": "ray/auto",
+    "description": "autoload classes",
+    "authors": [
+        {
+            "name": "ray",
+            "email": "quzz96er43@mail.com"
+        }
+    ],
+    "require": {}
+}
